@@ -1,3 +1,3 @@
-[submodule "Mod/questionnaire"]
-	path = Mod/questionnaire
-	url = https://kbwebsolutions@github.com/kbwebsolutions/moodle-mod_questionnaire.git
+[submodule "theme"]
+	path = theme
+	url = https://kbwebsolutions@github.com/kbwebsolutions/moodle_theme-CharteredCollege23.git
