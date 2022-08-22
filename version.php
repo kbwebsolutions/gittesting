@@ -1,6 +1,4 @@
 <?php
-$version = 'Version 3';
+$version = 'Version 1';
 
 print ($version);
-
-$frombranch = "This is from Version 3"
