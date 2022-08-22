@@ -1,4 +1,4 @@
 <?php
-$version = 'Version 0.1';
+$version = 'Version 1';
 
 print ($version);
